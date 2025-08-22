@@ -1,0 +1,36 @@
+feature,importance_gain,importance_split,category
+solar_term_sum,449815.82580661774,2848,중요
+menu_date_weight,176835.4750814438,2513,중요
+avg_sales_nonzero_monthly,118392.11549302936,2065,중요
+season_sum,107015.20260733366,2420,중요
+time_idx,57476.68133252859,3435,중요
+zero_sales_day_ratio,55747.68810582161,1294,중요
+weekday_score,33805.06378442049,1871,중요
+avg_sales_all_days,30130.144665658478,657,중요
+demand_volatility,27097.2595846951,1184,중요
+quarter_sum,23416.75903001428,2290,중요
+date_weight,20546.8816896677,1222,중요
+weekday,20080.79143410921,1081,중요
+day,20040.096416950222,2763,중간
+avg_sales_nonzero_weekday,15927.97049844265,1237,중간
+menu_rank,15746.358831733463,1084,중간
+month_score,15095.975734353064,1430,중간
+avg_sales_nonzero_seasonly,11775.740423858166,970,중간
+holiday_span_score,10212.601084440948,1239,중간
+is_holiday,9167.572162687778,255,중간
+solar_term,8700.30554997921,921,중간
+season,8656.829684019089,300,중간
+var_sales_nonzero_days,8181.699344336986,602,중간
+month,7516.634997844696,485,중간
+avg_sales_nonzero_days,4801.0404561162,472,중요하지 않음
+is_before_holiday,2164.3556674718857,225,중요하지 않음
+menu_category,2071.046087652445,302,중요하지 않음
+year,1088.247855424881,22,중요하지 않음
+is_sandwich,1085.3938866257668,55,중요하지 않음
+is_weekend,1026.4314857721329,16,중요하지 않음
+is_after_holiday,942.3486853837968,108,중요하지 않음
+brunch_flag,276.1698684692383,43,중요하지 않음
+hallroom_flag,181.0939263701439,100,중요하지 않음
+quarter,57.04405057430267,11,중요하지 않음
+영업장명,0.0,0,중요하지 않음
+메뉴명,0.0,0,중요하지 않음
